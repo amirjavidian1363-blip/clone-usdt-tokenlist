@@ -1,6 +1,6 @@
 {
   "name": "Clone USDT Token List",
-  "timestamp": "2025-11-25T05:30:00+00:00",
+  "timestamp": "2025-11-25T06:10:00+00:00",
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "Clone USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/amirjavidian1363-blip/clone-usdt-tokenlist/main/logo.png"
+      "logoURI": "https://bafybeihezo6y45ucfcesutvuv7hjq36etuzcdie5okcpaccgza66a6btvi.ipfs.dweb.link?filename=logo.png"
     }
   ]
 }
