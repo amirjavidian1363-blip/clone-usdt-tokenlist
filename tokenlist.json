@@ -1,12 +1,12 @@
 {
-  "name": "Clone USDT Token List",
-  "timestamp": "2025-11-25T06:10:00+00:00",
+  "name": "USDT",
+  "timestamp": "2025-11-25T06:50:00+00:00",
   "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 56,
       "address": "0x2C22629f09d2b2C62eC866e2e49Abb5e17cfA263",
-      "name": "Clone USDT",
+      "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://bafybeihezo6y45ucfcesutvuv7hjq36etuzcdie5okcpaccgza66a6btvi.ipfs.dweb.link?filename=logo.png"
